@@ -61,3 +61,5 @@ async function checkWeather(city){
 searchBtn.addEventListener('click', ()=>{
     checkWeather(inputBox.value);
 });
+
+console.log("My name is vishal kumar mishra, i am learning github.")
